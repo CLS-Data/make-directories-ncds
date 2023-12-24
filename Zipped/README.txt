@@ -1,0 +1,1 @@
+Place the zipped UKDS files as downloaded - do not unzip them. Please then follow the instructions in the README.md file in the main folder.
