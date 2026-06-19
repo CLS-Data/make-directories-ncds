@@ -10,7 +10,7 @@ rm(list = ls())
 # 1. Unzip UKDS Files ----
 ukds_folders <- tribble(
   ~code, ~ukds_fld, ~sweep_fld,
-  '5560', 'Response and Outcomes Dataset, 1958-2013', 'xwave',
+  '5560', 'Response and Outcomes Dataset, 1958-2024', 'xwave',
   '5565', 'Childhood Data from Birth to Age 16, Sweeps 0-3, 1958-1974', '0y-16y',
   '5566', 'Age 23, Sweep 4, 1981, and Public Examination Results, 1978', '23y',
   '5567', 'Age 33, Sweep 5, 1991', '33y',
