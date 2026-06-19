@@ -22,7 +22,8 @@ ukds_folders <- tribble(
   '6978', 'Age 50, Sweep 8, Imagine You are 60, 2008-2009', '50y',
   '7669', 'Age 55, Sweep 9, 2013', '55y',
   '8313', 'Age 11, Sweep 2, Imagine you are 25 Essays, 1969', '0y-16y',
-  '8731', 'Biomedical Survey 2002-2004', '42y-44y Biomedical'
+  '8731', 'Biomedical Survey 2002-2004', '42y-44y Biomedical',
+  '9412', 'Age 62, Sweep 10, 2019-2024', '62y'
 )
 
 ukds_dict <- ukds_folders %>%
